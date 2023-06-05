@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://grliteracy.github.io/sitemap.txt
+
+Sitemap: https://grliteracy.github.io/index.html
+Sitemap: https://grliteracy.github.io/contact.html
